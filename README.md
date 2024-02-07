@@ -2,8 +2,8 @@
 Personal Admin-Dashboard for my projects
 
 ## Tools
-Python - Programming Language
-Django - Web Framework
-HTML, CSS, JavaScript
+Python - Programming Language <br/>
+Django - Web Framework <br/>
+HTML, CSS, JavaScript <br/>
 
 ## Preview
